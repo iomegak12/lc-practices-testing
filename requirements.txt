@@ -1,0 +1,11 @@
+art
+langchain
+langchain-community
+langchain-openai
+langchain-experimental
+python-dotenv
+numexpr
+pandas
+streamlit
+tabulate
+google-search-results
